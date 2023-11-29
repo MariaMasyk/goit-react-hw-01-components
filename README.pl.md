@@ -1,6 +1,6 @@
 **Read in other languages: [rosyjski](README.md), [polski](README.pl.md).**
 
-# React homework template
+# goit-react-hw-01-components
 
 Ten projekt został stworzony przy pomocy
 [Create React App](https://github.com/facebook/create-react-app). W celu

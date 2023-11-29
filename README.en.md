@@ -1,4 +1,4 @@
-# React homework template
+# goit-react-hw-01-components
 
 This project was created with
 [Create React App](https://github.com/facebook/create-react-app). To get
